@@ -56,12 +56,21 @@ My GitHub Profile
 </p>
 
 <hr />
-
-### 📊 GitHub Stats & Top Languages
+---
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MChandanaCodes&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandanaCodes&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MChandana237&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandana237&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MChandana237&theme=tokyonight"/>
+</p>
+
+---
 
 ### 🔗 Connect With Me
 
