@@ -59,9 +59,12 @@ My GitHub Profile
 
 <hr />
 
-### 📈 Contribution Graph
+<hr />
+
+### 📊 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MChandanaCodes&theme=tokyonight-duo&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MChandanaCodes&show_icons=true&theme=tokyonight&count_private=true" alt="Stats Card" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandanaCodes&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 <hr />
