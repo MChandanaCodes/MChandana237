@@ -1,6 +1,6 @@
 # MChandana237
 My GitHub Profile
-<div align="center">
+<div align="right">
   <img src="https://github.com/MChandanaCodes.png" width="150" style="border-radius:50%; border: 2px solid #6a11cb; padding: 5px;" />
   
   <h1>Hello there 👋</h1>
@@ -51,20 +51,10 @@ My GitHub Profile
 
 <hr />
 
-### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MChandanaCodes&show_icons=true&theme=tokyonight&count_private=true" alt="Stats Card" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandanaCodes&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
-<hr />
-
-<hr />
-
-### 📊 GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MChandanaCodes&show_icons=true&theme=tokyonight&count_private=true" alt="Stats Card" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandanaCodes&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MChandanaCodes&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandanaCodes&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 <hr />
