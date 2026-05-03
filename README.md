@@ -2,18 +2,6 @@
 My GitHub Profile
 <div align="center">
   <img src="https://github.com/MChandanaCodes.png" width="150" style="border-radius:50%; border: 2px solid #6a11cb; padding: 5px;" />
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=M%20Chandana&fontSize=70" width="100%" />
-
-  <br />
-
-  <img src="https://img.shields.io/badge/MCA-Maharaja%20Institute%20of%20Technology%20Mysore-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Mysuru,%20IN-success?style=for-the-badge" />
-
-  <br /><br />
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Building%20Real-World%20Projects%20with%20Python,%20Java,%20and%20AI/ML" width="100%" />
-</div>
   <h1>Hello there 👋</h1>
   <h2>I'm M Chandana</h2>
 
