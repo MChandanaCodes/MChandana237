@@ -48,17 +48,23 @@ My GitHub Profile
 - **Enhancing 5g network Security:** Probabilistic decision models using Bayesian Theory.
 - **My Portfolio:** Detailed implementation of thread synchronization and concurrency.
 
-### 📊 GitHub Analytics
+<hr />
+
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MChandana237&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandana237&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MChandanaCodes&theme=tokyonight" alt="Trophy Card" />
+</p>
+
+<hr />
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MChandanaCodes&show_icons=true&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&margin_handle=false" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=MChandanaCodes&label=Profile%20Views&color=blue&style=flat" alt="Views Counter" />
 </p>
-
----
 
 ### 🔗 Connect With Me
 
