@@ -59,11 +59,8 @@ My GitHub Profile
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MChandanaCodes&show_icons=true&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MChandanaCodes&label=Profile%20Views&color=blue&style=flat" alt="Views Counter" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MChandana237&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandana237&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 ### 🔗 Connect With Me
