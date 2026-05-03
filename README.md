@@ -1,6 +1,6 @@
 # MChandana237
 My GitHub Profile
-<div align="right">
+<div align="center">
   <img src="https://github.com/MChandanaCodes.png" width="150" style="border-radius:50%; border: 2px solid #6a11cb; padding: 5px;" />
   
   <h1>Hello there 👋</h1>
