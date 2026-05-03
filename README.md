@@ -57,11 +57,10 @@ My GitHub Profile
 
 <hr />
 
-### 📊 GitHub Stats
 ### 📊 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MChandana237&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandana237&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MChandanaCodes&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChandanaCodes&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ### 🔗 Connect With Me
